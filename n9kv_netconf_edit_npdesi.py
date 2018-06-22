@@ -2,6 +2,7 @@
 
 from ncclient import manager
 import credentials
+import json
 from lxml import etree
 from ncclient.operations.rpc import RPCError
 
